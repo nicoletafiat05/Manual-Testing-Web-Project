@@ -13,21 +13,21 @@ This repository contains a manual testing project created to demonstrate my QA m
 - Usability and security-related scenarios
 
 ##Test Types Covered
--Functional Testing
--Negative Testing
--Boundary Value Analysis
--Usability Testing
--Exploratory Testing
+- Functional Testing
+- Negative Testing
+- Boundary Value Analysis
+- Usability Testing
+- Exploratory Testing
 
 ##Test Artifacts
--Test Cases(Excel)
--Login test cases covering valid, invalid and edge scenarios
+- Test Cases(Excel)
+- Login test cases covering valid, invalid and edge scenarios
 
 ##Tools Used
--Browser: Google Chrome
--Documentation: Microsoft Excel
--Version Control: Git & GitHub
+- Browser: Google Chrome
+- Documentation: Microsoft Excel
+- Version Control: Git & GitHub
 
 ##Curent Status
--Test cases for Login module created and uploaded
--Next steps: Execute test cases and create bug reports
+- Test cases for Login module created and uploaded
+- Next steps: Execute test cases and create bug reports
