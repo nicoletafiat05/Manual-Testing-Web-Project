@@ -27,12 +27,12 @@ This repository contains a manual testing project created to demonstrate my QA m
 - Test cases were executed and updated with Actual Results and Pass/Fail status
 
 ##Bug Reports  
--Failed cases were analyzed and documented as Bug Reports
--Bugs were clasified by type and severity
--Identified issues include:
-      -Missing protection for multiple failed login attemps(security)
-      -Anti-bot delay and unclear messaging
-      -Usability and validation-related issues
+- Failed cases were analyzed and documented as Bug Reports
+- Bugs were clasified by type and severity
+- Identified issues include:
+      - Missing protection for multiple failed login attemps(security)
+      - Anti-bot delay and unclear messaging
+      - Usability and validation-related issues
 
 ##Tools Used
 - Browser: Google Chrome
